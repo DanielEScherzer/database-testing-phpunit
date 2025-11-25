@@ -3,7 +3,7 @@
   "description": "A testing extension for cspray/database-testing to integrate with PHPUnit.",
   "require": {
     "php": "^8.3",
-    "cspray/database-testing": "dev-main",
+    "cspray/database-testing": "^0.5",
     "phpunit/phpunit": "^11"
   },
   "require-dev": {
